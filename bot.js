@@ -7,7 +7,7 @@ WhatsAsena - Yusuf Usta
 const fs = require("fs");
 const path = require("path");
 const events = require("./events");
-const SPlRlT-YT = require("./SPlRlTYT");
+const spiritser = require("./spiritser");
 const spiritser = require('./spirit-ser');
 const { FakeDB, takeMessage } = require("./plugins/sql/fake");
 const chalk = require('chalk');
